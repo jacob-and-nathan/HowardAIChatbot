@@ -3,3 +3,4 @@ This is an AI robot I made, that uses AI to ask questions, then uses it's vocabu
 This was made in the python 3 programming language. You need to download python 3 to run this. To do that, go here: 
 https://www.python.org/downloads/
 Remember, you need to download Python 3!
+This project is by Jacob
